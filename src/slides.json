@@ -1,0 +1,39 @@
+{
+	"slides": [
+		{
+			"title": "Slide 1 title",
+			"content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi asperiores voluptate, excepturi cumque praesentium magnam tempora enim magni autem alias. Ipsa, fugiat ipsam debitis perferendis at rem voluptatibus consequatur dolorum.",
+			"cta": "Cta text",
+			"link": "#",
+			"bg": "https://picsum.photos/2000/1500/?blur=2"
+		},
+		{
+			"title": "Slide 2 title",
+			"content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet, odit corporis vitae at neque eius sunt numquam amet, iusto aspernatur commodi quibusdam dolore ab quis maxime culpa incidunt explicabo autem?",
+			"cta": "Cta text",
+			"link": "#",
+			"bg": "https://picsum.photos/2020/1500/?blur=2"
+		},
+		{
+			"title": "Slide 3 title",
+			"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, laborum! Aut doloribus iure quaerat molestiae sit dolorum dignissimos tempora quo cumque facilis consectetur aperiam voluptate, quidem praesentium optio necessitatibus architecto?",
+			"cta": "Cta text",
+			"link": "#",
+			"bg": "https://picsum.photos/2030/1500/?blur=2"
+		},
+		{
+			"title": "Slide 4 title",
+			"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolores hic praesentium dolorem vitae enim veniam ab aliquid vel at? Labore numquam blanditiis recusandae architecto libero amet cumque placeat modi?",
+			"cta": "Cta text",
+			"link": "#",
+			"bg": "https://picsum.photos/2040/1500/?blur=2"
+		},
+		{
+			"title": "Slide 5 title",
+			"content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, quis vel cumque at recusandae accusantium quasi illo architecto magnam, ut excepturi, accusamus laboriosam! Expedita ea quaerat cum alias delectus nam?",
+			"cta": "Cta text",
+			"link": "#",
+			"bg": "https://picsum.photos/2050/1500/?blur=2"
+		}
+	]
+}
